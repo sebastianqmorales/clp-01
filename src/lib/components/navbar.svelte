@@ -14,22 +14,22 @@
     <NavHamburger on:click={toggle} />
     <NavUl {hidden}>
       <NavLi href="/creators">
-        <div class="text-orange-500">
-            Creators
+        <div class="text-orange-500 text-xl font-medium">
+            Creators 
         </div>
       </NavLi>
       <NavLi href="/careers">
-        <div class="text-orange-500">
+        <div class="text-orange-500 text-xl font-medium">
             Careers
         </div>
       </NavLi>
       <NavLi href="/investors">
-        <div class="text-orange-500">
+        <div class="text-orange-500 text-xl font-medium">
             Investors            
         </div>
     </NavLi>
       <NavLi href="/about-us">
-        <div class="text-orange-500">       
+        <div class="text-orange-500 text-xl font-medium">       
             About Us
         </div>
        </NavLi>
