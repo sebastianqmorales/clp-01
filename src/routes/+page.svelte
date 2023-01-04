@@ -25,24 +25,14 @@
 </div>
     
 <!-- Second section -->
-<div class="bg-white h-screen w-auto flex flex-col md:pt-20 md:gap-12 md:px-40">
-
-    <div class="text-5xl text-center">What's the problem?</div>
-    <div class="flex justify-evenly">
-        <div class="text-2xl">
-            Seller     
-        </div>
-        <div class="text-2xl">
-            Product
-        </div>
-        <div class="text-2xl">
-            Buyer
-        </div>
-    </div>
+<!-- <div class="bg-white h-screen w-auto flex flex-col md:pt-20 md:gap-12 md:px-40"> -->
+<div class="h-screen w-auto bg-gradient-to-b from-orange-400 to-transparent py-10 m-20 flex flex-col gap-10">
+    <div class="text-5xl text-center font-bold">What's the problem?</div>
+    <div class="text-2xl text-center">The problem is stuff being free, ever hear the saying, nothing is free?</div>
     <div class="text-2xl font-bold text-center">How it should be.</div>
     <div class="flex justify-evenly">
         <div class="text-2xl">
-            Creator     
+        Creator     
         </div>
         <div class="text-2xl">
             Content
@@ -52,11 +42,11 @@
         </div>
     </div>
     <div class="text-2xl font-bold text-center">How it is</div>
-    <div class="flex justify-evenly ">
-        <div class="text-2xl">
+    <div class="flex justify-evenly">
+        <div class="text-2xl ">
             Platform     
         </div>
-        <div class="text-2xl">
+        <div class="text-2xl ">
             User data
         </div>
         <div class="text-2xl">
@@ -76,6 +66,7 @@
         </div>
     </div>
 </div>
+<!-- </div> -->
 
 <!-- Third section -->
 <div class="bg-white h-screen w-auto flex flex-col md:pt-20 md:gap-12 md:px-40">
