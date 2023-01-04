@@ -69,8 +69,8 @@
 <!-- </div> -->
 
 <!-- Third section -->
-<div class="bg-white h-screen w-auto flex flex-col md:pt-20 md:gap-12 md:px-40">
-    <div class="text-5xl">How will Cuatex solve the problem?</div>
+<div class="h-screen w-auto bg-gradient-to-t from-orange-400 to-transparent py-10 m-20 flex flex-col gap-10">
+    <div class="text-5xl font-bold text-center">How will Cuatex solve the problem?</div>
     <div class="text-2xl">Our vision</div>
     <div class="text-2xl">What does Cuatex offer you?</div>
     <div class="flex gap-10">
